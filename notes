@@ -95,6 +95,47 @@ en odbc hay que asignar formato de tabla
 sin tablas es porque el archivo esta vacio 
 Error "no tiene acceso exclusivo a la base de datos" en Access
 
+problema archivo de excel en uso
+
+https://social.msdn.microsoft.com/Forums/en-US/4dffb8d5-32c4-4162-af05-62557f4c9a66/how-to-remove-a-database-lock-file-belaccdb?forum=accessdev
+access record locking information
+
+unlock access record locking information
+
+opciones - configuracion del cliente - bloquear por registros
+
+excel used access cannot delete
+[SOLVED] !! Cannot delete an Excel file because Excel thinks it is already open in Excel, but it's not.
+
+access base de datos ya abierta por el usuario admin
+base de datos ya abierta access
+
+base de datos actual 
+mostrar lista de valores
+en campos odbc
+
+modo predeterminado de apertura
+compartido
+Se arreglará con la actual compilación 14827.20192. 
+
+https://learn.microsoft.com/es-es/officeupdates/current-channel#version-2201-february-08
+Versión 2201 (compilación 14827.20192)
+
+eliminar el archivo excel abierto 
+en administrador de tareas
+
+C:\Users\USUARIO\Documents\Mis archivos de origen de datos
+How to Create an ODBC Data Connection in Excel
+
+https://intercom.help/ssgpenelope/en/articles/5189639-how-to-create-an-odbc-data-connection-in-excel
+
+opciones - datos - mostrar los asistentes de importacion de datos heredados
+
+
+
+
+
+
 
 
 
