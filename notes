@@ -1,0 +1,51 @@
+import excel
+How To Import Excel Data in Access (With Benefits)
+There are many situations 
+Switching programs: You might need to move a high volume of data from Excel to Access 
+import data for added agility
+
+How to import Excel data in Access
+Here are eight steps 
+You can only import worksheets, not entire workbooks
+Access can only support up to 255 columns
+If any columns or rows contain data of different types, like numbers and letters, 
+you might consider formatting them
+To do so, select the area, choose "Format Cells," click "Number" and then click "Category.
+Choose the type of data that best reflects your content to signal Access to format it properly.
+If you'd rather move your data into an existing Access database
+
+nuevo origen de datos 
+excel
+vincular al origen de datos creando una tabla vinculada
+primera fila contiene encabezados de columnas
+
+se ha perdido la conexion para ver las hojas de trabajo vinculadas
+Este tipo de error aparecerá como una molesta notificación en su pantalla 
+a menos que sea manejado y corregido
+
+Causas de Error de Microsoft Access 3620 - Code 3620
+Durante el diseño del software, los programadores codifican previendo la aparición de errores. 
+Sin embargo, no hay diseños perfectos, ya que se pueden esperar errores incluso 
+con el mejor diseño de un programa
+
+Cuando obtenga un error de tiempo de ejecución, tenga en cuenta que está 
+sucediendo debido a programas que están en conflicto entre sí
+
+consolidar
+crear un super archivo excel
+crear una super tabla dinamica
+
+seleccionar varios elementos
+cargar en
+
+
+
+
+
+
+
+
+
+
+
+
