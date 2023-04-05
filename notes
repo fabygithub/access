@@ -76,6 +76,8 @@ Let's begin by creating an Excel file and configuring an ODBC connection
 
 odbc excel
 Administrar orígenes de datos ODBC - Microsoft Support
+
+/////////
 Panel de control\Sistema y seguridad\Herramientas administrativas
 administrador de origen de datos odbc (64 bits)
 seleccionar excel
@@ -86,7 +88,9 @@ seleccionar libro
 nombre de la base de datos
 
 nombre del origen de datos : Excel Files
+esta la opcion seleccionar varios elementos
 
+en odbc hay que asignar formato de tabla
 
 
 
