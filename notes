@@ -38,6 +38,72 @@ crear una super tabla dinamica
 seleccionar varios elementos
 cargar en
 
+import several workbook in access
+Import all excel files in folder to table in Microsoft Access
+import several workbook in access
+
+How to Import Multiple Spreadsheets Into Access
+How do I Import multiple Excel workbooks into one?
+Import data from a folder with multiple files (Power Query)
+
+https://support.microsoft.com/en-us/office/import-data-from-a-folder-with-multiple-files-power-query-94b8023c-2e66-4f6b-8c78-6a00041c90e4
+
+https://www.quora.com/How-can-I-import-many-Excel-files-into-one-access-database
+
+Deborah Ann Dawicki
+ · 
+Follow
+
+Sr. Database Administrator (2015–present)Mar 13
+You can actually Link to the Excel files.. You will need to set up an ODBC connection 
+to the Excel files and then connect to the ODBC connection to link the them (Worksheets).
+You can write a QBE (Query by Example) or SQL query and save as an MS Access 
+table for use there also.
+
+Excel files and then connect to the ODBC connectio
+importar datos odbc excel
+ERROR [01S00] [Microsoft][Controlador ODBC Excel]Atributo de cadena de conexión no válido Trusted_Connection
+
+How do I fix ODBC connection failed in Excel?
+
+Solution 2. Check If You Have Set Up an ODBC Connection for An Access Database
+
+Connect to an Excel file as a data source via OBDC
+how to connect to an excel file as a data source for a given application
+
+Let's begin by creating an Excel file and configuring an ODBC connection
+5 Connecting to Microsoft Data Sources Through ODBC Connection
+
+odbc excel
+Administrar orígenes de datos ODBC - Microsoft Support
+Panel de control\Sistema y seguridad\Herramientas administrativas
+administrador de origen de datos odbc (64 bits)
+seleccionar excel
+doble click
+
+https://docs.oracle.com/cd/E18283_01/owb.112/e10582/loading_ms_data.htm
+seleccionar libro
+nombre de la base de datos
+
+nombre del origen de datos : Excel Files
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
